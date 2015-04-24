@@ -15,7 +15,7 @@ public class DrawUCollaborative {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //Teste Ana Luiza
+        //Teste 
         System.out.println("Hello World");
     }
     
